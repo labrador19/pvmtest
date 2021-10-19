@@ -36,7 +36,7 @@ function draw()
     background("purple")
   }
 
-
+// comment added to test GIT
   
   drawSprites();
 }
